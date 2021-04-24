@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Youth Hostel App</string>
+    <string name="txtTitle">Aqua Laguna Hostel</string>
+    <string name="description">Youth Hostel Image</string>
+    <string name="btnHostel">Hostel Information</string>
+    <string name="txtAddress">1423 Water Lane, Atlantis, Oceania</string>
+    <string name="txtCost">Cost Range: $20 - $30 a night</string>
+</resources>
