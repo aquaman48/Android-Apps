@@ -8,7 +8,7 @@ OS: **Microsoft Windows 10**
 In this directory I was working with implementing a button. In the Youth Hostel application that button was used to show more information once clicked. There a lot of various uses we can have for a button. 
 
 
-#### Youth Hostel App
+## Youth Hostel App
 
 Once the application is opened and running in the emulator the main screen will look like this:
 
