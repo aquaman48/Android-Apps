@@ -12,13 +12,12 @@ In this directory I was working with implementing a button. In the Youth Hostel 
 
 Once the application is opened and running in the emulator the main screen will look like this:
 
-![main-image](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Youth-Hostel-App/Youth_Hostel_Main.PNG)
+![main-image](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Youth-Hostel-App/Youth_Hostel_Main.PNG) ![more-info](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Youth-Hostel-App/Youth_Hostel_Info.PNG)
 
 
+#### Results
+As you can see that once the user clicks on the `Hotel Information button` they would then get redirected to the information page as seen here:
 
-Once the user clicks on the Hotel Information button they would then get redirected to the information page as seen here:
-
-![more-info](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Youth-Hostel-App/Youth_Hostel_Info.PNG)
 
 
 ## Catlina Island Express App
