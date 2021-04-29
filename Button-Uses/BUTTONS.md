@@ -16,7 +16,7 @@ Once the application is opened and running in the emulator the main screen will 
 
 
 #### Results
-As you can see that once the user clicks on the `Hotel Information button` they would then get redirected to the information page as seen here:
+As you can see that once the user clicks on the `Hostel Information` button they would then get redirected to the information page as seen here:
 
 
 
