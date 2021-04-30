@@ -23,5 +23,6 @@ As you can see that once the user clicks on the `Hostel Information` button they
 ## Catlina Island Express App
 
 This application uses a button as well but, in a different way. Here once the button is clicked then we see the result of the price of the ticket per number specified by user. 
+Also, there is a use of a drop down list as well. This one was interesting with using Java in the background to complete the calculations. 
 
 ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Catalina-Island-Express/Catalina_Ferry_Before.PNG) ![After](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Catalina-Island-Express/Catalina_Ferry_After.PNG)
