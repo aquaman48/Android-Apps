@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Animal Sounds</string>
+    <string name="txtSplash">Chloes Farm!</string>
+    <string name="cow">Cow Image</string>
+    <string name="pig">Pig Image</string>
+    <string name="btnCow">LISTEN TO THE COWS</string>
+    <string name="btnPig">LISTEN TO THE PIGS</string>
+</resources>
