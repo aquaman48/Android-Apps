@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Floor Tiler App</string>
+    <string name="txtTitle">Floor Tile Calculator</string>
+    <string name="btnTiles">Tile Count</string>
+    <string name="txtLength">Length of Room</string>
+    <string name="txtWidth">Width of Room</string>
+    <string name="radTwelveInch">12 x 12 Tiles</string>
+    <string name="radEighteenInch">18 x 18 Tiles</string>
+</resources>
