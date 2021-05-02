@@ -45,7 +45,14 @@ This application I created with my daughter as the intended audience. Her name i
 
 ![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/splash_screen.PNG) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Main.PNG)
 
+#### Selections
+
+![cow](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Cow.PNG) ![pig](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Pig.PNG)
+
 
 ## Aloha Music 
+
+## Ringtone Sampler
+
 
 
