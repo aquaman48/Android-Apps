@@ -51,7 +51,9 @@ These application makes use of using audio within a Android application. I did s
 
 ## Animal Sounds
 
-This application I created with my daughter as the intended audience. Her name is Chloe so that is why the splash screen says Chloes Farm. I kept the main activity pretty simple and straight forward. See screenshots below:
+This application I created with my daughter Chloe in mind. I kept the main activity pretty simple and straight forward. Click the buttons and the animal sounds for that animal will play.
+
+See screenshots below:
 
 #### Splash Screen and Main 
 
