@@ -33,6 +33,12 @@ Also, there is a use of a drop down list as well. This one was interesting with 
 
 ## Floor Tile App 
 
+Here things get a little more complicated. Well, just in terms of the Java code anyway. This app is helping us find out how many 12x12 or 18x18 tiles we would need with user defined room dimensions. 
+
+![main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Main.PNG) 
+
+![12](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Twelve.PNG) ![18](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Eighteen.PNG)
+
 # Buttons with Audio
 
 These application makes use of using audio within a Android application. I did something different with these applications and implemented a splash screen in each of them. This splash screen is the first screen the user will see when running the application and will continue to the main activity after a set time. In most of the cases I have implemented a 5 second (5,000 millisecond) timer. After the user is at the main screen they select an option and the respected mp3 file would play accordingly. 
