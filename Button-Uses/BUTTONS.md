@@ -33,9 +33,15 @@ Also, there is a use of a drop down list as well. This one was interesting with 
 
 ## Floor Tile App 
 
-Here things get a little more complicated. Well, just in terms of the Java code anyway. This app is helping us find out how many 12x12 or 18x18 tiles we would need with user defined room dimensions. 
+Here things get a little more complicated. Well, just in terms of the Java code anyway. This app is helping us find out how many 12x12 or 18x18 tiles we would need with user defined room dimensions.
+
+#### Main Screen
+
 
 ![main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Main.PNG) 
+
+
+#### Results
 
 ![12](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Twelve.PNG) ![18](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Floor-Tile-App/Floor_Tile_App_Eighteen.PNG)
 
