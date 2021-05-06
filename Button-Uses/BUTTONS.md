@@ -70,5 +70,8 @@ See screenshots below:
 
 Here is where I took a lot of the other different uses for buttons and put them into one. I used a radio button group for the user to select a song and then when they press the button the sound will play. 
 
-![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Main.PNG)
+#### Splash and Main
+
+
+![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Splash%20.PNG) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Main.PNG)
 
