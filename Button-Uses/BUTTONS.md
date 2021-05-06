@@ -75,3 +75,7 @@ Here is where I took a lot of the other different uses for buttons and put them 
 
 ![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Splash%20.PNG) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Main.PNG)
 
+#### Selections
+
+![Select1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Happy.PNG) ![Select2](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Crazy.PNG) ![Select3](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Suga.PNG)
+
