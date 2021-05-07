@@ -68,5 +68,14 @@ See screenshots below:
 
 ## Ringtone Sampler
 
+Here is where I took a lot of the other different uses for buttons and put them into one. I used a radio button group for the user to select a song and then when they press the button the sound will play. 
 
+#### Splash and Main
+
+
+![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Splash%20.PNG) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Main.PNG)
+
+#### Selections
+
+![Select1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Happy.PNG) ![Select2](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Crazy.PNG) ![Select3](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Ringtone-Sampler-App/Ringtone_Sampler_App_Suga.PNG)
 
