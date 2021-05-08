@@ -9,5 +9,10 @@ Here is a big sandbox repository from building Android applications in Android S
 
 ## Highlights
 
+Here are some of the Android Applications that I have worked on so far that a more "noteworthy" in my opinion. Like the ringtone sampler app that I worked on. It takes quite a few different concepts and puts them all together in one. 
+
+- [Ringtone Sampler App](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#ringtone-sampler)
+- [Animal Sounds](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#animal-sounds)
+
 ## Quick Access
 
