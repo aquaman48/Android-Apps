@@ -1,7 +1,7 @@
+# Apps using a ListView
+
 Compiler used: **Android Studios** v.4.1.3 <br />
 OS: **Microsoft Windows 10**
-
-# Apps using a ListView
 
 Using a ListView for the layout in Android was interesting. Compared to Master/Flow style layouts, ListViews are simple and to the point. As you see the screenshots down below, we are basically giving the user 3 options to choose from and with each option they see the results.
 
