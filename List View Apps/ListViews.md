@@ -1,4 +1,4 @@
-# Apps using a ListView
+# Android Applications ListView Layout
 
 Compiler used: **Android Studios** v.4.1.3 <br />
 OS: **Microsoft Windows 10**
