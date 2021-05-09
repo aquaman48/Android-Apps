@@ -31,6 +31,20 @@ Also, there is a use of a drop down list as well. This one was interesting with 
 
 ## Photo Prints App 
 
+This app was a fun one to build. Here using Java we were checking if the radio button `ischecked()` or not. If it is, then that is the piece of the code with the corresponding values to successfully run the application. Also implemented a toast message notification if the user picks more than 50 copys at a time. 
+
+#### Main Screen
+
+![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Photo-Print-App/Photo_Print_App_Main.PNG)
+
+#### Results
+
+![Run](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Photo-Print-App/Photo_Print_App_When_Ran.PNG) ![Extra](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Photo-Print-App/Photo_Print_App_Extra.PNG)
+
+##### Toast Message
+
+![Toast](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Photo-Print-App/Photo_Print_App_Toast_Txt.PNG)
+
 ## Floor Tile App 
 
 Here things get a little more complicated. Well, just in terms of the Java code anyway. This app is helping us find out how many 12x12 or 18x18 tiles we would need with user defined room dimensions.
