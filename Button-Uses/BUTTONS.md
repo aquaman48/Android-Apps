@@ -83,8 +83,15 @@ See screenshots below:
 
 #### Splash and Main
 
-![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Splash.png)
+![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Splash.png) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Main.png)
 
+#### Button Push for Ukulele
+
+![Ukulele](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Ukulele.png)
+
+#### Button Push for Drums
+
+![Drums](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Drums.png)
 
 ## Ringtone Sampler
 
