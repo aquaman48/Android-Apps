@@ -80,6 +80,12 @@ See screenshots below:
 
 ## Aloha Music 
 
+
+#### Splash and Main
+
+![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Aloha-Music-App/Aloha_Music_Splash.png)
+
+
 ## Ringtone Sampler
 
 Here is where I took a lot of the other different uses for buttons and put them into one. I used a radio button group for the user to select a song and then when they press the button the sound will play. 
