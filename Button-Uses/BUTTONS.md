@@ -61,7 +61,7 @@ Here things get a little more complicated. Well, just in terms of the Java code 
 
 # Buttons with Audio
 
-These application makes use of using audio within a Android application. I did something different with these applications and implemented a splash screen in each of them. This splash screen is the first screen the user will see when running the application and will continue to the main activity after a set time. In most of the cases I have implemented a 5 second (5,000 millisecond) timer. After the user is at the main screen they select an option and the respected mp3 file would play accordingly. 
+These application makes use of using audio within a Android application. I did something different with these applications and implemented a splash screen in each of them. This splash screen is the first screen the user will see when running the application and will continue to the main activity after a set time. In most of the cases I have implemented a 5 second (5,000 millisecond) timer. After the user is at the main screen they select an option and the respected mp3 file would play accordingly. For all the apps, when one button or selection is made the other options are invisible until audio is paused. 
 
 ## Animal Sounds
 
@@ -73,9 +73,13 @@ See screenshots below:
 
 ![Splash](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/splash_screen.PNG) ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Main.PNG)
 
-#### Selections
+#### Cow Sounds on Button Push
 
-![cow](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Cow.PNG) ![pig](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Pig.PNG)
+![cow](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Cow.PNG) 
+
+#### Pig Sounds on Button Push
+
+![pig](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Animal-Sounds/Animal_Sounds_Click_Pig.PNG)
 
 
 ## Aloha Music 
