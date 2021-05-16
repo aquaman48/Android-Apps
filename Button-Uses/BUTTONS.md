@@ -29,6 +29,8 @@ Also, there is a use of a drop down list as well. This one was interesting with 
 
 # Radio Buttons
 
+With using radio buttons we can give the user a more "interactive" experience. They make a selection and then depending on the certain selection the rest of the program will run accordingly. 
+
 ## Photo Prints App 
 
 This app was a fun one to build. Here using Java we were checking if the radio button `ischecked()` or not. If it is, then that is the piece of the code with the corresponding values to successfully run the application. Also implemented a toast message notification if the user picks more than 50 copys at a time. 
