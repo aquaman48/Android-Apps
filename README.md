@@ -16,3 +16,11 @@ Here are some of the Android Applications that I have worked on so far that a mo
 
 ## Quick Access
 
+Here are quick links to the specific readme files for more information and screenshots.
+
+- [Buttons](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#basic-click-buttons)
+  - [Radio Buttons](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#radio-buttons)
+  - [Buttons with Audio](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#buttons-with-audio)
+- [Grid View](https://github.com/aquaman48/Android-Apps/blob/main/Grid%20View%20Apps/GridView.md#gridviews)
+- [List View](https://github.com/aquaman48/Android-Apps/blob/main/List%20View%20Apps/ListViews.md#android-applications-listview-layout)
+- [Designed for Tablets](https://github.com/aquaman48/Android-Apps/blob/main/Tablet-Apps/TABLET_APPS.md#android-applications-built-for-tablets)
