@@ -38,3 +38,5 @@ Similiar to the Appalachian Trail Application, you can see the layout and everyt
 ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_Main.png)
 
 #### DatePicker and Results
+
+![Date](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_DatePicker.png) ![Result](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_Result.png)
