@@ -11,8 +11,10 @@ Here is a big sandbox repository from building Android applications in Android S
 
 Here are some of the Android Applications that I have worked on so far that a more "noteworthy" in my opinion. Like the ringtone sampler app that I worked on. It takes quite a few different concepts and puts them all together in one. 
 
-- [Ringtone Sampler App](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#ringtone-sampler)
-- [Healthy Snacks](https://github.com/aquaman48/Android-Apps/blob/main/Grid%20View%20Apps/GridView.md#healthy-snacks)(GridView)
+- [Ringtone Sampler App](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#ringtone-sampler) (Audio)
+- [Healthy Snacks](https://github.com/aquaman48/Android-Apps/blob/main/Grid%20View%20Apps/GridView.md#healthy-snacks) (GridView)
+- [Beach and Mountain Bike Rental App](https://github.com/aquaman48/Android-Apps/blob/main/List%20View%20Apps/ListViews.md#beach-mountain-bike-rentals-app) (ListView)
+- []() (Tablet View)
 
 ## Quick Access
 
