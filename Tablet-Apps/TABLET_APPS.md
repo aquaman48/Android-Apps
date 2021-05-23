@@ -30,3 +30,13 @@ Once the user picks a date and clicks ok they then see the results appear that t
 
 
 ## Dog Sledding Experience Application
+
+Similiar to the Appalachian Trail Application, you can see the layout and everything didn't change much. Most of the changes here were for images colors.
+
+#### Main
+
+![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_Main.png)
+
+#### DatePicker and Results
+
+![Date](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_DatePicker.png) ![Result](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Dog-Sledding-Experience-App/Dog_Sledding_Experience_Result.png)
