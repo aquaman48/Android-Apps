@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Facial Expressions</string>
+    <string name="imgDescription">Facial Expression Image</string>
+    <string name="btnFaces">See The Actor</string>
+</resources>
