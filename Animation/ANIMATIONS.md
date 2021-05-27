@@ -9,7 +9,7 @@ OS: **Microsoft Windows 10**
 
 ## Facial Expressions
 
-This application was a lot of fun with using Java and animations. Once the button is clicked the animation will begin and will go through the different faces the actor has. This application is much better when ran in real time. The screenshots do not really do it much justice. 
+This application was a lot of fun with using Java and animations. Once the button is clicked the animation will begin and will go through the different faces the actor has. This application is much better when ran in real time. The screenshots do not really do it much justice. The actor does make several different faces and they are on screen for 1 second before moving to the next image in the animation list. 
 
 
 #### Main & Results
