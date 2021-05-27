@@ -14,5 +14,5 @@ This application was a lot of fun with using Java and animations. Once the butto
 
 #### Main & Results
 
-![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Facial-Expressions/Facial_Expressions_Main.png) ![Results](
+![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Facial-Expressions/Facial_Expressions_Main.png) ![Results](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Facial-Expressions/Facial_Expressions_Result.png)
 
