@@ -16,3 +16,13 @@ Here in this application we have a few different screens depending on user input
 #### Main
 
 ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Main.png)
+
+#### 3 Year Loan 
+
+![3Input](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input3.png) ![3Result](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input3_Result.png)
+
+#### 4 Year Loan 
+
+#### 5 Year Loan
+
+#### Out of Scope Input
