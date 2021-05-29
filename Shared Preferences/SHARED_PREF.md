@@ -23,6 +23,12 @@ Here in this application we have a few different screens depending on user input
 
 #### 4 Year Loan 
 
+![4Input](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input4.png) ![4Result](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input4_Results.png)
+
 #### 5 Year Loan
 
+![5Input](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input5.png) ![5Result](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input5_Results.png)
+
 #### Out of Scope Input
+
+![NoScopeIn](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6_Results.png) ![NoScopeResult](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6.png)
