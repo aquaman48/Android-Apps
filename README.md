@@ -14,7 +14,9 @@ Here are some of the Android Applications that I have worked on so far that a mo
 - [Ringtone Sampler App](https://github.com/aquaman48/Android-Apps/blob/main/Button-Uses/BUTTONS.md#ringtone-sampler) (Audio)
 - [Healthy Snacks](https://github.com/aquaman48/Android-Apps/blob/main/Grid%20View%20Apps/GridView.md#healthy-snacks) (GridView)
 - [Beach and Mountain Bike Rental App](https://github.com/aquaman48/Android-Apps/blob/main/List%20View%20Apps/ListViews.md#beach-mountain-bike-rentals-app) (ListView)
-- []() (Tablet View)
+- [Animations](https://github.com/aquaman48/Android-Apps/blob/main/Animation/ANIMATIONS.md#android-development-using-java)
+- [Persistent Data](https://github.com/aquaman48/Android-Apps/blob/main/Shared%20Preferences/SHARED_PREF.md#electric-car-financing-app)
+- [Date Picker for Tablet](https://github.com/aquaman48/Android-Apps/blob/main/Tablet-Apps/TABLET_APPS.md#appalachian-trail-festival)
 
 ## Quick Access
 
