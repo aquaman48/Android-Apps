@@ -24,3 +24,10 @@ This application is simple and complex at the same time. Using a grid view and s
 
 This application is simple and complex at the same time. Using a grid view and storing the images in an array you can see the resuls below.
 
+#### Main Screen
+
+![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Endangered-Species/Endangered_Species_Main.PNG)
+
+#### Selections
+
+![Select](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Endangered-Species/Endangered_Species_Selection.PNG) ![Select2](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Endangered-Species/Endangered_Species_Another_Selection.PNG) 
