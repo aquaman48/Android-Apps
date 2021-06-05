@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="txtTitle">BMI Calculator</string>
+    <string name="hint1">Enter Weight (in lbs)</string>
+    <string name="hint2">Enter Height (in Inches)</string>
+    <string name="btnCompute">Compute BMI</string>
+    <string name="imgDescription">Exercise Equipment Image</string>
+    <string name="txtWeight">Your Body Mass Index is</string>
+</resources>
