@@ -32,3 +32,10 @@ Here in this application we have a few different screens depending on user input
 #### Out of Scope Input
 
 ![NoScopeIn](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6_Results.png) ![NoScopeResult](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6.png)
+
+### BMI Calculator App
+
+
+#### Main
+
+![Main}(https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Main.png)
