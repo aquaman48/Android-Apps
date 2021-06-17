@@ -34,7 +34,7 @@ Here in this application we have a few different screens depending on user input
 ![NoScopeIn](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6_Results.png) ![NoScopeResult](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/Electric-Car-Financing-App/Electric_Car_Input6.png)
 
 ### BMI Calculator App
-
+This app is a simple BMI Calculator. As you can see in the screenshots below the program asks for user input and then from the given inches and pounds given a new view is displayed. In this new view there is an image and also the results for data given. 
 
 #### Main
 
@@ -43,3 +43,9 @@ Here in this application we have a few different screens depending on user input
 #### Input
 
 ![Input1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Inputs.png)
+
+#### Results 
+
+![Result1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Results.png)
+
+#### Additional Input/Results
