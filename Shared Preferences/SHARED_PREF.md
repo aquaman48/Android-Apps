@@ -39,3 +39,7 @@ Here in this application we have a few different screens depending on user input
 #### Main
 
 ![Main](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Main.png)
+
+#### Input
+
+![Input1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Inputs.png)
