@@ -49,3 +49,5 @@ This app is a simple BMI Calculator. As you can see in the screenshots below the
 ![Result1](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Results.png)
 
 #### Additional Input/Results
+
+![Input2](https://github.com/aquaman48/Android-Apps/blob/main/Screenshots/BMI-Calculator-Shared-Pref/BMI_Calculator_Inputs2.png)
