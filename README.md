@@ -17,6 +17,7 @@ Here are some of the Android Applications that I have worked on so far that a mo
 - [Animations](https://github.com/aquaman48/Android-Apps/blob/main/Animation/ANIMATIONS.md#android-development-using-java)
 - [Persistent Data](https://github.com/aquaman48/Android-Apps/blob/main/Shared%20Preferences/SHARED_PREF.md#electric-car-financing-app)
 - [Date Picker for Tablet](https://github.com/aquaman48/Android-Apps/blob/main/Tablet-Apps/TABLET_APPS.md#appalachian-trail-festival)
+- [Persistent Data](https://github.com/aquaman48/Android-Apps/blob/main/Shared%20Preferences/SHARED_PREF.md#electric-car-financing-app)
 
 ## Quick Access
 
