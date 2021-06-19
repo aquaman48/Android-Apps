@@ -29,3 +29,4 @@ Here are quick links to the specific readme files for more information and scree
 - [Grid View](https://github.com/aquaman48/Android-Apps/blob/main/Grid%20View%20Apps/GridView.md#gridviews)
 - [List View](https://github.com/aquaman48/Android-Apps/blob/main/List%20View%20Apps/ListViews.md#android-applications-listview-layout)
 - [Designed for Tablets](https://github.com/aquaman48/Android-Apps/blob/main/Tablet-Apps/TABLET_APPS.md#android-applications-built-for-tablets)
+- [Shared Preferences](https://github.com/aquaman48/Android-Apps/blob/main/Shared%20Preferences/SHARED_PREF.md#shared-preferences)
